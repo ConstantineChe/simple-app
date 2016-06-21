@@ -1,0 +1,844 @@
+2016-06-13 12:31:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 12:34:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 12:34:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 12:34:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 12:34:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 12:34:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 12:34:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 12:45:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 12:45:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 12:45:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 12:46:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 12:46:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "CREATE TABLE USERS
+(ID BIGINT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+ USER_NAME VARCHAR(30) UNIQUE NOT NULL,
+ PASSWORD VARCHAR(100)) NOT[*] NULL;
+ "; SQL statement:
+CREATE TABLE users
+(id bigint auto_increment PRIMARY KEY NOT NULL,
+ user_name VARCHAR(30) UNIQUE NOT NULL,
+ password VARCHAR(100)) NOT NULL;
+ [42000-192]
+2016-06-13 12:48:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 12:48:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 12:48:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 12:54:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 12:59:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 13:09:47 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Table "users" not found; SQL statement:
+INSERT INTO "users" ("password", "username") VALUES (?, ?) [42102-192]
+2016-06-13 13:09:47 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Table "users" not found; SQL statement:
+INSERT INTO "users" ("password", "username") VALUES (?, ?) [42102-192]
+2016-06-13 13:09:47 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Table "users" not found; SQL statement:
+INSERT INTO "users" ("password", "username") VALUES (?, ?) [42102-192]
+2016-06-13 13:12:11 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 13:13:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 13:16:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 13:47:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 13:49:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 13:49:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT [*]"; expected "TOP, LIMIT, DISTINCT, ALL, *, NOT, EXISTS, INTERSECTS"; SQL statement:
+SHOW TABLE USERS; [42001-192]
+2016-06-13 13:50:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 13:51:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Column "password" not found; SQL statement:
+INSERT INTO "USERS" ("password", "username") VALUES (?, ?) [42122-192]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.get(DbException.java:155)
+	at org.h2.table.Table.getColumn(Table.java:682)
+	at org.h2.command.Parser.parseColumn(Parser.java:878)
+	at org.h2.command.Parser.parseColumnList(Parser.java:862)
+	at org.h2.command.Parser.parseInsert(Parser.java:1062)
+	at org.h2.command.Parser.parsePrepared(Parser.java:413)
+	at org.h2.command.Parser.parse(Parser.java:317)
+	at org.h2.command.Parser.parse(Parser.java:289)
+	at org.h2.command.Parser.prepareCommand(Parser.java:254)
+	at org.h2.engine.Session.prepareLocal(Session.java:560)
+	at org.h2.engine.Session.prepareCommand(Session.java:501)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1202)
+	at org.h2.jdbc.JdbcPreparedStatement.<init>(JdbcPreparedStatement.java:73)
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:290)
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:1136)
+	at com.mchange.v2.c3p0.impl.NewProxyConnection.prepareStatement(NewProxyConnection.java:399)
+	at clojure.java.jdbc$prepare_statement$fn__5186.invoke(jdbc.clj:441)
+	at clojure.java.jdbc$prepare_statement.doInvoke(jdbc.clj:440)
+	at clojure.lang.RestFn.invoke(RestFn.java:464)
+	at clojure.java.jdbc$db_do_prepared_return_keys.invoke(jdbc.clj:692)
+	at clojure.java.jdbc$db_do_prepared_return_keys.invoke(jdbc.clj:689)
+	at korma.db$exec_sql.invoke(db.clj:262)
+	at korma.db$do_query.invoke(db.clj:277)
+	at korma.core$exec.invoke(core.clj:498)
+	at simple_app.db$add_user.invoke(db.clj:30)
+	at simple_app.handler$register.invoke(handler.clj:26)
+	at compojure.response$eval216$fn__217.invoke(response.clj:33)
+	at compojure.response$eval183$fn__184$G__174__191.invoke(response.clj:6)
+	at compojure.core$make_route$fn__1796.invoke(core.clj:130)
+	at compojure.core$wrap_route_middleware$fn__1792.invoke(core.clj:118)
+	at compojure.core$if_route$fn__1764.invoke(core.clj:41)
+	at compojure.core$if_method$fn__1756.invoke(core.clj:27)
+	at compojure.core$routing$fn__1803.invoke(core.clj:144)
+	at clojure.core$some.invoke(core.clj:2570)
+	at compojure.core$routing.doInvoke(core.clj:144)
+	at clojure.lang.RestFn.applyTo(RestFn.java:139)
+	at clojure.core$apply.invoke(core.clj:632)
+	at compojure.core$routes$fn__1807.invoke(core.clj:149)
+	at ring.middleware.anti_forgery$wrap_anti_forgery$fn__3136.invoke(anti_forgery.clj:90)
+	at ring.middleware.flash$wrap_flash$fn__1984.invoke(flash.clj:35)
+	at ring.middleware.session$wrap_session$fn__2992.invoke(session.clj:102)
+	at ring.middleware.keyword_params$wrap_keyword_params$fn__3026.invoke(keyword_params.clj:35)
+	at ring.middleware.nested_params$wrap_nested_params$fn__3076.invoke(nested_params.clj:84)
+	at ring.middleware.multipart_params$wrap_multipart_params$fn__3231.invoke(multipart_params.clj:117)
+	at ring.middleware.params$wrap_params$fn__3257.invoke(params.clj:64)
+	at ring.middleware.cookies$wrap_cookies$fn__2871.invoke(cookies.clj:161)
+	at ring.middleware.absolute_redirects$wrap_absolute_redirects$fn__3405.invoke(absolute_redirects.clj:36)
+	at ring.middleware.resource$wrap_resource$fn__3293.invoke(resource.clj:28)
+	at ring.middleware.content_type$wrap_content_type$fn__3362.invoke(content_type.clj:30)
+	at ring.middleware.default_charset$wrap_default_charset$fn__3382.invoke(default_charset.clj:26)
+	at ring.middleware.not_modified$wrap_not_modified$fn__3343.invoke(not_modified.clj:52)
+	at ring.middleware.x_headers$wrap_xss_protection$fn__1962.invoke(x_headers.clj:71)
+	at ring.middleware.x_headers$wrap_frame_options$fn__1950.invoke(x_headers.clj:38)
+	at ring.middleware.x_headers$wrap_content_type_options$fn__1956.invoke(x_headers.clj:53)
+	at clojure.lang.Var.invoke(Var.java:379)
+	at ring.middleware.reload$wrap_reload$fn__3976.invoke(reload.clj:38)
+	at org.httpkit.server.HttpHandler.run(RingHandler.java:91)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-06-13 13:51:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Column "password" not found; SQL statement:
+INSERT INTO "USERS" ("password", "username") VALUES (?, ?) [42122-192]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.get(DbException.java:155)
+	at org.h2.table.Table.getColumn(Table.java:682)
+	at org.h2.command.Parser.parseColumn(Parser.java:878)
+	at org.h2.command.Parser.parseColumnList(Parser.java:862)
+	at org.h2.command.Parser.parseInsert(Parser.java:1062)
+	at org.h2.command.Parser.parsePrepared(Parser.java:413)
+	at org.h2.command.Parser.parse(Parser.java:317)
+	at org.h2.command.Parser.parse(Parser.java:289)
+	at org.h2.command.Parser.prepareCommand(Parser.java:254)
+	at org.h2.engine.Session.prepareLocal(Session.java:560)
+	at org.h2.engine.Session.prepareCommand(Session.java:501)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1202)
+	at org.h2.jdbc.JdbcPreparedStatement.<init>(JdbcPreparedStatement.java:73)
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:290)
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:1136)
+	at com.mchange.v2.c3p0.impl.NewProxyConnection.prepareStatement(NewProxyConnection.java:399)
+	at clojure.java.jdbc$prepare_statement$fn__5186.invoke(jdbc.clj:441)
+	at clojure.java.jdbc$prepare_statement.doInvoke(jdbc.clj:440)
+	at clojure.lang.RestFn.invoke(RestFn.java:464)
+	at clojure.java.jdbc$db_do_prepared_return_keys.invoke(jdbc.clj:692)
+	at clojure.java.jdbc$db_do_prepared_return_keys.invoke(jdbc.clj:689)
+	at korma.db$exec_sql.invoke(db.clj:262)
+	at korma.db$do_query.invoke(db.clj:277)
+	at korma.core$exec.invoke(core.clj:498)
+	at simple_app.db$add_user.invoke(db.clj:30)
+	at simple_app.handler$register.invoke(handler.clj:26)
+	at compojure.response$eval216$fn__217.invoke(response.clj:33)
+	at compojure.response$eval183$fn__184$G__174__191.invoke(response.clj:6)
+	at compojure.core$make_route$fn__1796.invoke(core.clj:130)
+	at compojure.core$wrap_route_middleware$fn__1792.invoke(core.clj:118)
+	at compojure.core$if_route$fn__1764.invoke(core.clj:41)
+	at compojure.core$if_method$fn__1756.invoke(core.clj:27)
+	at compojure.core$routing$fn__1803.invoke(core.clj:144)
+	at clojure.core$some.invoke(core.clj:2570)
+	at compojure.core$routing.doInvoke(core.clj:144)
+	at clojure.lang.RestFn.applyTo(RestFn.java:139)
+	at clojure.core$apply.invoke(core.clj:632)
+	at compojure.core$routes$fn__1807.invoke(core.clj:149)
+	at ring.middleware.anti_forgery$wrap_anti_forgery$fn__3136.invoke(anti_forgery.clj:90)
+	at ring.middleware.flash$wrap_flash$fn__1984.invoke(flash.clj:35)
+	at ring.middleware.session$wrap_session$fn__2992.invoke(session.clj:102)
+	at ring.middleware.keyword_params$wrap_keyword_params$fn__3026.invoke(keyword_params.clj:35)
+	at ring.middleware.nested_params$wrap_nested_params$fn__3076.invoke(nested_params.clj:84)
+	at ring.middleware.multipart_params$wrap_multipart_params$fn__3231.invoke(multipart_params.clj:117)
+	at ring.middleware.params$wrap_params$fn__3257.invoke(params.clj:64)
+	at ring.middleware.cookies$wrap_cookies$fn__2871.invoke(cookies.clj:161)
+	at ring.middleware.absolute_redirects$wrap_absolute_redirects$fn__3405.invoke(absolute_redirects.clj:36)
+	at ring.middleware.resource$wrap_resource$fn__3293.invoke(resource.clj:28)
+	at ring.middleware.content_type$wrap_content_type$fn__3362.invoke(content_type.clj:30)
+	at ring.middleware.default_charset$wrap_default_charset$fn__3382.invoke(default_charset.clj:26)
+	at ring.middleware.not_modified$wrap_not_modified$fn__3343.invoke(not_modified.clj:52)
+	at ring.middleware.x_headers$wrap_xss_protection$fn__1962.invoke(x_headers.clj:71)
+	at ring.middleware.x_headers$wrap_frame_options$fn__1950.invoke(x_headers.clj:38)
+	at ring.middleware.x_headers$wrap_content_type_options$fn__1956.invoke(x_headers.clj:53)
+	at clojure.lang.Var.invoke(Var.java:379)
+	at ring.middleware.reload$wrap_reload$fn__3976.invoke(reload.clj:38)
+	at org.httpkit.server.HttpHandler.run(RingHandler.java:91)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-06-13 13:51:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Column "password" not found; SQL statement:
+INSERT INTO "USERS" ("password", "username") VALUES (?, ?) [42122-192]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.get(DbException.java:155)
+	at org.h2.table.Table.getColumn(Table.java:682)
+	at org.h2.command.Parser.parseColumn(Parser.java:878)
+	at org.h2.command.Parser.parseColumnList(Parser.java:862)
+	at org.h2.command.Parser.parseInsert(Parser.java:1062)
+	at org.h2.command.Parser.parsePrepared(Parser.java:413)
+	at org.h2.command.Parser.parse(Parser.java:317)
+	at org.h2.command.Parser.parse(Parser.java:289)
+	at org.h2.command.Parser.prepareCommand(Parser.java:254)
+	at org.h2.engine.Session.prepareLocal(Session.java:560)
+	at org.h2.engine.Session.prepareCommand(Session.java:501)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1202)
+	at org.h2.jdbc.JdbcPreparedStatement.<init>(JdbcPreparedStatement.java:73)
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:290)
+	at com.mchange.v2.c3p0.impl.NewProxyConnection.prepareStatement(NewProxyConnection.java:213)
+	at clojure.java.jdbc$prepare_statement$fn__5186.invoke(jdbc.clj:444)
+	at clojure.java.jdbc$prepare_statement.doInvoke(jdbc.clj:440)
+	at clojure.lang.RestFn.invoke(RestFn.java:464)
+	at clojure.java.jdbc$db_do_prepared_return_keys.invoke(jdbc.clj:692)
+	at clojure.java.jdbc$db_do_prepared_return_keys.invoke(jdbc.clj:689)
+	at korma.db$exec_sql.invoke(db.clj:262)
+	at korma.db$do_query.invoke(db.clj:277)
+	at korma.core$exec.invoke(core.clj:498)
+	at simple_app.db$add_user.invoke(db.clj:30)
+	at simple_app.handler$register.invoke(handler.clj:26)
+	at compojure.response$eval216$fn__217.invoke(response.clj:33)
+	at compojure.response$eval183$fn__184$G__174__191.invoke(response.clj:6)
+	at compojure.core$make_route$fn__1796.invoke(core.clj:130)
+	at compojure.core$wrap_route_middleware$fn__1792.invoke(core.clj:118)
+	at compojure.core$if_route$fn__1764.invoke(core.clj:41)
+	at compojure.core$if_method$fn__1756.invoke(core.clj:27)
+	at compojure.core$routing$fn__1803.invoke(core.clj:144)
+	at clojure.core$some.invoke(core.clj:2570)
+	at compojure.core$routing.doInvoke(core.clj:144)
+	at clojure.lang.RestFn.applyTo(RestFn.java:139)
+	at clojure.core$apply.invoke(core.clj:632)
+	at compojure.core$routes$fn__1807.invoke(core.clj:149)
+	at ring.middleware.anti_forgery$wrap_anti_forgery$fn__3136.invoke(anti_forgery.clj:90)
+	at ring.middleware.flash$wrap_flash$fn__1984.invoke(flash.clj:35)
+	at ring.middleware.session$wrap_session$fn__2992.invoke(session.clj:102)
+	at ring.middleware.keyword_params$wrap_keyword_params$fn__3026.invoke(keyword_params.clj:35)
+	at ring.middleware.nested_params$wrap_nested_params$fn__3076.invoke(nested_params.clj:84)
+	at ring.middleware.multipart_params$wrap_multipart_params$fn__3231.invoke(multipart_params.clj:117)
+	at ring.middleware.params$wrap_params$fn__3257.invoke(params.clj:64)
+	at ring.middleware.cookies$wrap_cookies$fn__2871.invoke(cookies.clj:161)
+	at ring.middleware.absolute_redirects$wrap_absolute_redirects$fn__3405.invoke(absolute_redirects.clj:36)
+	at ring.middleware.resource$wrap_resource$fn__3293.invoke(resource.clj:28)
+	at ring.middleware.content_type$wrap_content_type$fn__3362.invoke(content_type.clj:30)
+	at ring.middleware.default_charset$wrap_default_charset$fn__3382.invoke(default_charset.clj:26)
+	at ring.middleware.not_modified$wrap_not_modified$fn__3343.invoke(not_modified.clj:52)
+	at ring.middleware.x_headers$wrap_xss_protection$fn__1962.invoke(x_headers.clj:71)
+	at ring.middleware.x_headers$wrap_frame_options$fn__1950.invoke(x_headers.clj:38)
+	at ring.middleware.x_headers$wrap_content_type_options$fn__1956.invoke(x_headers.clj:53)
+	at clojure.lang.Var.invoke(Var.java:379)
+	at ring.middleware.reload$wrap_reload$fn__3976.invoke(reload.clj:38)
+	at org.httpkit.server.HttpHandler.run(RingHandler.java:91)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-06-13 13:53:23 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: The file is locked: nio:/Users/constantine/clojure/simple-app/resources/db/simple-app.db.mv.db [1.4.192/7]" [50000-192]
+	at org.h2.message.DbException.get(DbException.java:168)
+	at org.h2.message.DbException.convert(DbException.java:295)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:94)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:375)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:358)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:2893)
+	at org.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:154)
+	at org.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:99)
+	at org.h2.engine.Database.getPageStore(Database.java:2463)
+	at org.h2.engine.Database.open(Database.java:692)
+	at org.h2.engine.Database.openDatabase(Database.java:270)
+	at org.h2.engine.Database.<init>(Database.java:264)
+	at org.h2.engine.Engine.openSession(Engine.java:64)
+	at org.h2.engine.Engine.openSession(Engine.java:176)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:154)
+	at org.h2.engine.Engine.createSession(Engine.java:137)
+	at org.h2.engine.Engine.createSession(Engine.java:27)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:349)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:118)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:102)
+	at org.h2.Driver.connect(Driver.java:72)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at clojure.java.jdbc$get_connection.invoke(jdbc.clj:255)
+	at clojure.java.jdbc$execute_BANG_.doInvoke(jdbc.clj:859)
+	at clojure.lang.RestFn.invoke(RestFn.java:425)
+	at ragtime.jdbc$ensure_migrations_table_exists.invoke(jdbc.clj:22)
+	at ragtime.jdbc.SqlDatabase.applied_migration_ids(jdbc.clj:42)
+	at ragtime.core$applied_migrations.invoke(core.clj:16)
+	at ragtime.core$migrate_all.invoke(core.clj:42)
+	at ragtime.repl$migrate.invoke(repl.clj:49)
+	at simple_app.db$eval1650$migrate__1651.doInvoke(db.clj:18)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.lang.Var.invoke(Var.java:379)
+	at simple_app.db$eval1650.invoke(db.clj:17)
+	at clojure.lang.Compiler.eval(Compiler.java:6782)
+	at clojure.lang.Compiler.load(Compiler.java:7227)
+	at clojure.lang.RT.loadResourceScript(RT.java:371)
+	at clojure.lang.RT.loadResourceScript(RT.java:362)
+	at clojure.lang.RT.load(RT.java:446)
+	at clojure.lang.RT.load(RT.java:412)
+	at clojure.core$load$fn__5448.invoke(core.clj:5866)
+	at clojure.core$load.doInvoke(core.clj:5865)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.core$load_one.invoke(core.clj:5671)
+	at clojure.core$load_lib$fn__5397.invoke(core.clj:5711)
+	at clojure.core$load_lib.doInvoke(core.clj:5710)
+	at clojure.lang.RestFn.applyTo(RestFn.java:142)
+	at clojure.core$apply.invoke(core.clj:632)
+	at clojure.core$load_libs.doInvoke(core.clj:5749)
+	at clojure.lang.RestFn.applyTo(RestFn.java:137)
+	at clojure.core$apply.invoke(core.clj:632)
+	at clojure.core$require.doInvoke(core.clj:5832)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at user$eval5$fn__7.invoke(form-init3473674193719460558.clj:1)
+	at user$eval5.invoke(form-init3473674193719460558.clj:1)
+	at clojure.lang.Compiler.eval(Compiler.java:6782)
+	at clojure.lang.Compiler.eval(Compiler.java:6772)
+	at clojure.lang.Compiler.load(Compiler.java:7227)
+	at clojure.lang.Compiler.loadFile(Compiler.java:7165)
+	at clojure.main$load_script.invoke(main.clj:275)
+	at clojure.main$init_opt.invoke(main.clj:280)
+	at clojure.main$initialize.invoke(main.clj:308)
+	at clojure.main$null_opt.invoke(main.clj:343)
+	at clojure.main$main.doInvoke(main.clj:421)
+	at clojure.lang.RestFn.invoke(RestFn.java:421)
+	at clojure.lang.Var.invoke(Var.java:383)
+	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+	at clojure.lang.Var.applyTo(Var.java:700)
+	at clojure.main.main(main.java:37)
+Caused by: org.h2.jdbc.JdbcSQLException: General error: "java.lang.IllegalStateException: The file is locked: nio:/Users/constantine/clojure/simple-app/resources/db/simple-app.db.mv.db [1.4.192/7]" [50000-192]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	... 70 more
+Caused by: java.lang.IllegalStateException: The file is locked: nio:/Users/constantine/clojure/simple-app/resources/db/simple-app.db.mv.db [1.4.192/7]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:773)
+	at org.h2.mvstore.FileStore.open(FileStore.java:172)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:344)
+	... 65 more
+2016-06-13 13:53:23 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: The file is locked: nio:/Users/constantine/clojure/simple-app/resources/db/simple-app.db.mv.db [1.4.192/7]" [50000-192]
+	at org.h2.message.DbException.get(DbException.java:168)
+	at org.h2.message.DbException.convert(DbException.java:295)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:94)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:375)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:358)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:2893)
+	at org.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:154)
+	at org.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:99)
+	at org.h2.engine.Database.getPageStore(Database.java:2463)
+	at org.h2.engine.Database.open(Database.java:692)
+	at org.h2.engine.Database.openDatabase(Database.java:270)
+	at org.h2.engine.Database.<init>(Database.java:264)
+	at org.h2.engine.Engine.openSession(Engine.java:64)
+	at org.h2.engine.Engine.openSession(Engine.java:176)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:154)
+	at org.h2.engine.Engine.createSession(Engine.java:137)
+	at org.h2.engine.Engine.createSession(Engine.java:27)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:349)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:118)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:102)
+	at org.h2.Driver.connect(Driver.java:72)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at clojure.java.jdbc$get_connection.invoke(jdbc.clj:255)
+	at clojure.java.jdbc$db_query_with_resultset.invoke(jdbc.clj:798)
+	at clojure.java.jdbc$query.doInvoke(jdbc.clj:832)
+	at clojure.lang.RestFn.invoke(RestFn.java:464)
+	at ragtime.jdbc.SqlDatabase.applied_migration_ids(jdbc.clj:43)
+	at ragtime.core$applied_migrations.invoke(core.clj:16)
+	at ragtime.core$migrate_all.invoke(core.clj:42)
+	at ragtime.repl$migrate.invoke(repl.clj:49)
+	at simple_app.db$eval1650$migrate__1651.doInvoke(db.clj:18)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.lang.Var.invoke(Var.java:379)
+	at simple_app.db$eval1650.invoke(db.clj:17)
+	at clojure.lang.Compiler.eval(Compiler.java:6782)
+	at clojure.lang.Compiler.load(Compiler.java:7227)
+	at clojure.lang.RT.loadResourceScript(RT.java:371)
+	at clojure.lang.RT.loadResourceScript(RT.java:362)
+	at clojure.lang.RT.load(RT.java:446)
+	at clojure.lang.RT.load(RT.java:412)
+	at clojure.core$load$fn__5448.invoke(core.clj:5866)
+	at clojure.core$load.doInvoke(core.clj:5865)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.core$load_one.invoke(core.clj:5671)
+	at clojure.core$load_lib$fn__5397.invoke(core.clj:5711)
+	at clojure.core$load_lib.doInvoke(core.clj:5710)
+	at clojure.lang.RestFn.applyTo(RestFn.java:142)
+	at clojure.core$apply.invoke(core.clj:632)
+	at clojure.core$load_libs.doInvoke(core.clj:5749)
+	at clojure.lang.RestFn.applyTo(RestFn.java:137)
+	at clojure.core$apply.invoke(core.clj:632)
+	at clojure.core$require.doInvoke(core.clj:5832)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at user$eval5$fn__7.invoke(form-init3473674193719460558.clj:1)
+	at user$eval5.invoke(form-init3473674193719460558.clj:1)
+	at clojure.lang.Compiler.eval(Compiler.java:6782)
+	at clojure.lang.Compiler.eval(Compiler.java:6772)
+	at clojure.lang.Compiler.load(Compiler.java:7227)
+	at clojure.lang.Compiler.loadFile(Compiler.java:7165)
+	at clojure.main$load_script.invoke(main.clj:275)
+	at clojure.main$init_opt.invoke(main.clj:280)
+	at clojure.main$initialize.invoke(main.clj:308)
+	at clojure.main$null_opt.invoke(main.clj:343)
+	at clojure.main$main.doInvoke(main.clj:421)
+	at clojure.lang.RestFn.invoke(RestFn.java:421)
+	at clojure.lang.Var.invoke(Var.java:383)
+	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+	at clojure.lang.Var.applyTo(Var.java:700)
+	at clojure.main.main(main.java:37)
+Caused by: org.h2.jdbc.JdbcSQLException: General error: "java.lang.IllegalStateException: The file is locked: nio:/Users/constantine/clojure/simple-app/resources/db/simple-app.db.mv.db [1.4.192/7]" [50000-192]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	... 70 more
+Caused by: java.lang.IllegalStateException: The file is locked: nio:/Users/constantine/clojure/simple-app/resources/db/simple-app.db.mv.db [1.4.192/7]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:773)
+	at org.h2.mvstore.FileStore.open(FileStore.java:172)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:344)
+	... 65 more
+2016-06-13 13:54:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 13:54:16 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DESCRIBE[*] USERS;"; expected "DELETE, DROP, DECLARE, DEALLOCATE, {"; SQL statement:
+DESCRIBE USERS; [42001-192]
+2016-06-13 13:55:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 13:55:18 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 13:55:18 jdbc[9]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 13:56:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 13:56:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 13:56:01 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 13:56:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 14:10:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 14:28:32 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 14:30:46 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 14:30:47 jdbc[10]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 14:31:04 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 14:31:04 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 14:31:38 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 14:31:39 jdbc[18]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 14:34:39 jdbc[20]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 14:34:39 jdbc[22]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 14:41:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 14:49:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 15:04:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 15:09:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 15:17:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 16:07:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 16:08:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 16:13:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 16:16:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 16:20:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 16:44:57 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: The file is locked: nio:/Users/constantine/clojure/simple-app/resources/db/simple-app.db.mv.db [1.4.192/7]" [50000-192]
+	at org.h2.message.DbException.get(DbException.java:168)
+	at org.h2.message.DbException.convert(DbException.java:295)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:94)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:375)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:358)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:2893)
+	at org.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:154)
+	at org.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:99)
+	at org.h2.engine.Database.getPageStore(Database.java:2463)
+	at org.h2.engine.Database.open(Database.java:692)
+	at org.h2.engine.Database.openDatabase(Database.java:270)
+	at org.h2.engine.Database.<init>(Database.java:264)
+	at org.h2.engine.Engine.openSession(Engine.java:64)
+	at org.h2.engine.Engine.openSession(Engine.java:176)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:154)
+	at org.h2.engine.Engine.createSession(Engine.java:137)
+	at org.h2.engine.Engine.createSession(Engine.java:27)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:349)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:118)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:102)
+	at org.h2.Driver.connect(Driver.java:72)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at clojure.java.jdbc$get_connection.invoke(jdbc.clj:255)
+	at clojure.java.jdbc$execute_BANG_.doInvoke(jdbc.clj:859)
+	at clojure.lang.RestFn.invoke(RestFn.java:425)
+	at ragtime.jdbc$ensure_migrations_table_exists.invoke(jdbc.clj:22)
+	at ragtime.jdbc.SqlDatabase.applied_migration_ids(jdbc.clj:42)
+	at ragtime.core$applied_migrations.invoke(core.clj:16)
+	at ragtime.core$migrate_all.invoke(core.clj:42)
+	at ragtime.repl$migrate.invoke(repl.clj:49)
+	at simple_app.db$eval1650$migrate__1651.doInvoke(db.clj:18)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.lang.Var.invoke(Var.java:379)
+	at simple_app.db$eval1650.invoke(db.clj:17)
+	at clojure.lang.Compiler.eval(Compiler.java:6782)
+	at clojure.lang.Compiler.load(Compiler.java:7227)
+	at clojure.lang.RT.loadResourceScript(RT.java:371)
+	at clojure.lang.RT.loadResourceScript(RT.java:362)
+	at clojure.lang.RT.load(RT.java:446)
+	at clojure.lang.RT.load(RT.java:412)
+	at clojure.core$load$fn__5448.invoke(core.clj:5866)
+	at clojure.core$load.doInvoke(core.clj:5865)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.core$load_one.invoke(core.clj:5671)
+	at clojure.core$load_lib$fn__5397.invoke(core.clj:5711)
+	at clojure.core$load_lib.doInvoke(core.clj:5710)
+	at clojure.lang.RestFn.applyTo(RestFn.java:142)
+	at clojure.core$apply.invoke(core.clj:632)
+	at clojure.core$load_libs.doInvoke(core.clj:5749)
+	at clojure.lang.RestFn.applyTo(RestFn.java:137)
+	at clojure.core$apply.invoke(core.clj:632)
+	at clojure.core$require.doInvoke(core.clj:5832)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at user$eval5$fn__7.invoke(form-init8296560855824153521.clj:1)
+	at user$eval5.invoke(form-init8296560855824153521.clj:1)
+	at clojure.lang.Compiler.eval(Compiler.java:6782)
+	at clojure.lang.Compiler.eval(Compiler.java:6772)
+	at clojure.lang.Compiler.load(Compiler.java:7227)
+	at clojure.lang.Compiler.loadFile(Compiler.java:7165)
+	at clojure.main$load_script.invoke(main.clj:275)
+	at clojure.main$init_opt.invoke(main.clj:280)
+	at clojure.main$initialize.invoke(main.clj:308)
+	at clojure.main$null_opt.invoke(main.clj:343)
+	at clojure.main$main.doInvoke(main.clj:421)
+	at clojure.lang.RestFn.invoke(RestFn.java:421)
+	at clojure.lang.Var.invoke(Var.java:383)
+	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+	at clojure.lang.Var.applyTo(Var.java:700)
+	at clojure.main.main(main.java:37)
+Caused by: org.h2.jdbc.JdbcSQLException: General error: "java.lang.IllegalStateException: The file is locked: nio:/Users/constantine/clojure/simple-app/resources/db/simple-app.db.mv.db [1.4.192/7]" [50000-192]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	... 70 more
+Caused by: java.lang.IllegalStateException: The file is locked: nio:/Users/constantine/clojure/simple-app/resources/db/simple-app.db.mv.db [1.4.192/7]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:773)
+	at org.h2.mvstore.FileStore.open(FileStore.java:172)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:344)
+	... 65 more
+2016-06-13 16:44:57 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: The file is locked: nio:/Users/constantine/clojure/simple-app/resources/db/simple-app.db.mv.db [1.4.192/7]" [50000-192]
+	at org.h2.message.DbException.get(DbException.java:168)
+	at org.h2.message.DbException.convert(DbException.java:295)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:94)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:375)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:358)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:2893)
+	at org.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:154)
+	at org.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:99)
+	at org.h2.engine.Database.getPageStore(Database.java:2463)
+	at org.h2.engine.Database.open(Database.java:692)
+	at org.h2.engine.Database.openDatabase(Database.java:270)
+	at org.h2.engine.Database.<init>(Database.java:264)
+	at org.h2.engine.Engine.openSession(Engine.java:64)
+	at org.h2.engine.Engine.openSession(Engine.java:176)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:154)
+	at org.h2.engine.Engine.createSession(Engine.java:137)
+	at org.h2.engine.Engine.createSession(Engine.java:27)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:349)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:118)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:102)
+	at org.h2.Driver.connect(Driver.java:72)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at clojure.java.jdbc$get_connection.invoke(jdbc.clj:255)
+	at clojure.java.jdbc$db_query_with_resultset.invoke(jdbc.clj:798)
+	at clojure.java.jdbc$query.doInvoke(jdbc.clj:832)
+	at clojure.lang.RestFn.invoke(RestFn.java:464)
+	at ragtime.jdbc.SqlDatabase.applied_migration_ids(jdbc.clj:43)
+	at ragtime.core$applied_migrations.invoke(core.clj:16)
+	at ragtime.core$migrate_all.invoke(core.clj:42)
+	at ragtime.repl$migrate.invoke(repl.clj:49)
+	at simple_app.db$eval1650$migrate__1651.doInvoke(db.clj:18)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.lang.Var.invoke(Var.java:379)
+	at simple_app.db$eval1650.invoke(db.clj:17)
+	at clojure.lang.Compiler.eval(Compiler.java:6782)
+	at clojure.lang.Compiler.load(Compiler.java:7227)
+	at clojure.lang.RT.loadResourceScript(RT.java:371)
+	at clojure.lang.RT.loadResourceScript(RT.java:362)
+	at clojure.lang.RT.load(RT.java:446)
+	at clojure.lang.RT.load(RT.java:412)
+	at clojure.core$load$fn__5448.invoke(core.clj:5866)
+	at clojure.core$load.doInvoke(core.clj:5865)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at clojure.core$load_one.invoke(core.clj:5671)
+	at clojure.core$load_lib$fn__5397.invoke(core.clj:5711)
+	at clojure.core$load_lib.doInvoke(core.clj:5710)
+	at clojure.lang.RestFn.applyTo(RestFn.java:142)
+	at clojure.core$apply.invoke(core.clj:632)
+	at clojure.core$load_libs.doInvoke(core.clj:5749)
+	at clojure.lang.RestFn.applyTo(RestFn.java:137)
+	at clojure.core$apply.invoke(core.clj:632)
+	at clojure.core$require.doInvoke(core.clj:5832)
+	at clojure.lang.RestFn.invoke(RestFn.java:408)
+	at user$eval5$fn__7.invoke(form-init8296560855824153521.clj:1)
+	at user$eval5.invoke(form-init8296560855824153521.clj:1)
+	at clojure.lang.Compiler.eval(Compiler.java:6782)
+	at clojure.lang.Compiler.eval(Compiler.java:6772)
+	at clojure.lang.Compiler.load(Compiler.java:7227)
+	at clojure.lang.Compiler.loadFile(Compiler.java:7165)
+	at clojure.main$load_script.invoke(main.clj:275)
+	at clojure.main$init_opt.invoke(main.clj:280)
+	at clojure.main$initialize.invoke(main.clj:308)
+	at clojure.main$null_opt.invoke(main.clj:343)
+	at clojure.main$main.doInvoke(main.clj:421)
+	at clojure.lang.RestFn.invoke(RestFn.java:421)
+	at clojure.lang.Var.invoke(Var.java:383)
+	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+	at clojure.lang.Var.applyTo(Var.java:700)
+	at clojure.main.main(main.java:37)
+Caused by: org.h2.jdbc.JdbcSQLException: General error: "java.lang.IllegalStateException: The file is locked: nio:/Users/constantine/clojure/simple-app/resources/db/simple-app.db.mv.db [1.4.192/7]" [50000-192]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	... 70 more
+Caused by: java.lang.IllegalStateException: The file is locked: nio:/Users/constantine/clojure/simple-app/resources/db/simple-app.db.mv.db [1.4.192/7]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:773)
+	at org.h2.mvstore.FileStore.open(FileStore.java:172)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:344)
+	... 65 more
+2016-06-13 16:45:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 16:46:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 16:47:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 16:47:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 16:47:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 16:48:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 16:48:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "CREATE TABLE ROUTES
+(ID BIGINT AUTO_INCREMENT PRIMARY KEY,
+ NAME VARCHAR(30) UNIQUE NOT NULL,
+ LENGTH VARCHAR(30) NOT NULL,
+ SKILL TINYINT NOT NULL,
+ TYPE VARCHAR(30) NOT NULL,
+ ELEVATION VARCHAR(30);[*]
+ "; expected "FOR, UNSIGNED, NOT, NULL, AS, DEFAULT, GENERATED, NOT, NULL, AUTO_INCREMENT, BIGSERIAL, SERIAL, IDENTITY, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, PRIMARY, UNIQUE, NOT, NULL, CHECK, REFERENCES, ,, )"; SQL statement:
+CREATE TABLE ROUTES
+(id BIGINT AUTO_INCREMENT PRIMARY KEY,
+ NAME VARCHAR(30) UNIQUE NOT NULL,
+ LENGTH VARCHAR(30) NOT NULL,
+ SKILL TINYINT NOT NULL,
+ TYPE VARCHAR(30) NOT NULL,
+ ELEVATION VARCHAR(30);
+ [42001-192]
+2016-06-13 16:49:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 16:49:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-13 16:49:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 20:10:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'' (ROUTES: SKILL TINYINT NOT NULL)"; SQL statement:
+INSERT INTO "ROUTES" ("ELEVATION", "LENGTH", "NAME", "SKILL", "TYPE") VALUES (?, ?, ?, ?, ?) -- (?1, ?2, ?3, ?4, ?5) [22018-192]
+2016-06-18 20:11:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'' (ROUTES: SKILL TINYINT NOT NULL)"; SQL statement:
+INSERT INTO "ROUTES" ("ELEVATION", "LENGTH", "NAME", "SKILL", "TYPE") VALUES (?, ?, ?, ?, ?) -- (?1, ?2, ?3, ?4, ?5) [22018-192]
+2016-06-18 20:12:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'' (ROUTES: SKILL TINYINT NOT NULL)"; SQL statement:
+INSERT INTO "ROUTES" ("ELEVATION", "LENGTH", "NAME", "SKILL", "TYPE") VALUES (?, ?, ?, ?, ?) -- (?1, ?2, ?3, ?4, ?5) [22018-192]
+2016-06-18 20:15:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'' (ROUTES: SKILL TINYINT NOT NULL)"; SQL statement:
+INSERT INTO "ROUTES" ("ELEVATION", "LENGTH", "NAME", "SKILL", "TYPE") VALUES (?, ?, ?, ?, ?) -- (?1, ?2, ?3, ?4, ?5) [22018-192]
+2016-06-18 20:57:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 20:57:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 20:57:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 20:57:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 20:58:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:01:49 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:01:49 jdbc[9]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:02:41 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:02:41 jdbc[9]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:02:41 jdbc[11]: exception
+org.h2.jdbc.JdbcSQLException: Table "ROUTES" already exists; SQL statement:
+CREATE TABLE ROUTES
+(id BIGINT AUTO_INCREMENT PRIMARY KEY,
+ NAME VARCHAR(30) UNIQUE NOT NULL,
+ LENGTH VARCHAR(30),
+ CHECKPOINTS VARCHAR(32000) NOT NULL,
+ SKILL TINYINT NOT NULL,
+ TYPE VARCHAR(30),
+ ELEVATION VARCHAR(30));
+ [42101-192]
+2016-06-18 21:03:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:03:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:04:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:04:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:04:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:04:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:05:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:05:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:05:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ROUTES" not found; SQL statement:
+DROP TABLE ROUTES;
+CREATE TABLE ROUTES
+(id BIGINT AUTO_INCREMENT PRIMARY KEY,
+ NAME VARCHAR(30) UNIQUE NOT NULL,
+ LENGTH VARCHAR(30),
+ CHECKPOINTS VARCHAR(32000) NOT NULL,
+ SKILL TINYINT NOT NULL,
+ TYPE VARCHAR(30),
+ ELEVATION VARCHAR(30));
+ [42102-192]
+2016-06-18 21:05:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:05:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:25:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:25:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-18 21:25:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "RAGTIME_MIGRATIONS" already exists; SQL statement:
+CREATE TABLE ragtime_migrations (id varchar(255), created_at varchar(32)) [42101-192]
+2016-06-19 16:36:09 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "LENGTH"; SQL statement:
+SELECT "ROUTES".* FROM "ROUTES" ORDER BY ? DESC [22018-192]
