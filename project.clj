@@ -2,12 +2,10 @@
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :min-lein-version "2.0.0"
-  :main simple-app.handler
   :dependencies [[org.clojure/clojure "1.7.0"]
                  [compojure "1.4.0"]
                  [ring/ring-defaults "0.1.5"]
                  [ring/ring-devel "1.5.0"]
-                 [http-kit "2.1.18"]
                  [buddy "1.0.0"]
                  [hiccup "1.0.5"]
                  [korma "0.4.2"]

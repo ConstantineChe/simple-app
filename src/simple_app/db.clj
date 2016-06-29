@@ -1,8 +1,9 @@
 (ns simple-app.db
   (:require [korma.db :as kdb]
-            [korma.core :as kc :refer [select select* insert defentity table values where order]]
+            [korma.core :as kc :refer [select select* insert defentity table values where order fields]]
             [ragtime.jdbc :as jdbc]
-            [ragtime.repl :as repl]))
+            [ragtime.repl :as repl]
+            [clojure.string :as s]))
 
 ;; H2 database connection
 (def db-connection (kdb/h2 {:db "./resources/db/simple-app.db"}))
@@ -71,6 +72,14 @@
                     (order (keyword field) (keyword dir)))]
     (prn rts)
     rts))
+
+(defn get-route-checkpoints
+  ""
+  [name]
+  (->> (select routes
+               (fields :CHECKPOINTS)
+               (where {:NAME name}))
+       first (s/split #",")))
 
 (defn find-routes
   "doc-string"
